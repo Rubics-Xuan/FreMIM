@@ -4,6 +4,7 @@ This repo is the official implementation for:
 [FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation](https://arxiv.org/abs/2304.10864).
 
 ## Requirements
+More details about our environmental requirements can be found in our uploaded "requirement.txt".
 - python 3.7
 - pytorch 1.6.0
 - torchvision 0.7.0

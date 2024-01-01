@@ -18,7 +18,7 @@ This repo is the official implementation for:
 - Please refer to our previous open-sourced repo [TransBTS](https://github.com/Rubics-Xuan/TransBTS) for more specific details.
 
 ## Pre-Training with our FreMIM
-- 
+- sh run_frequency.sh
 
 ## Fine-tuning & Testing
 - Please refer to our previous open-sourced repo [TransBTS](https://github.com/Rubics-Xuan/TransBTS) for more specific details.

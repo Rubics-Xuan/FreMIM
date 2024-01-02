@@ -1,7 +1,6 @@
 # FreMIM（WACV 2024）
 
-This repo is the official implementation for: 
-[FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation](https://arxiv.org/abs/2304.10864).
+This repo is the official implementation for: [FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation].
 
 <h4 align="center"> <a href="https://rubics-xuan.github.io/FreMIM/" align="center"> [Project page] | </a> <a href="https://arxiv.org/abs/2304.10864" align="center"> [Paper] </h4> 
   

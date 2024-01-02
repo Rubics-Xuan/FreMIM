@@ -3,7 +3,7 @@
 This repo is the official implementation for: 
 [FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation](https://arxiv.org/abs/2304.10864).
 
-<h4 align="center"> <a href="https://rubics-xuan.github.io/FreMIM/" align="center"> [Project page] | </a> <a href="https://arxiv.org/abs/2304.10864" align="center"> [Paper] 
+<h4 align="center"> <a href="https://rubics-xuan.github.io/FreMIM/" align="center"> [Project page] | </a> <a href="https://arxiv.org/abs/2304.10864" align="center"> [Paper] </h4> 
   
 ## Requirements
 More details about our environmental requirements can be found in our uploaded "requirement.txt".
